@@ -1,2 +1,2 @@
 # appTurismo
-aplicacion de peliculas 
+aplicacion de turismo
